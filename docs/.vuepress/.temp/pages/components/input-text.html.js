@@ -6,19 +6,15 @@ export const data = {
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "git": {},
+  "git": {
+    "updatedTime": 1649000753000,
+    "contributors": [
+      {
+        "name": "Claudiu Plesa",
+        "email": "claudiu.plesa@magicpixel.ro",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "components/input-text.md"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
 }
