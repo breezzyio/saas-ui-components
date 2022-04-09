@@ -10,6 +10,7 @@ module.exports = {
         children: [
           "/components/input-text.md",
           "/components/input-textarea.md",
+          "/components/main-icon.md",
         ],
       },
     ],
