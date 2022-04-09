@@ -3,9 +3,9 @@
 </template>
 <script>
 
-import IconTenants from './icons/IconTenants'
-import IconReviews from './icons/IconReviews'
-import IconCompany from './icons/IconCompany'
+import IconTenants from './icons/IconTenants.vue'
+import IconReviews from './icons/IconReviews.vue'
+import IconCompany from './icons/IconCompany.vue'
 
 
 export default {
