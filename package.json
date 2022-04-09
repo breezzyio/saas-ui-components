@@ -6,7 +6,7 @@
   "files": [
     "dist/*",
     "src/componets/*.vue",
-    "src/componets/icons/*.vue",
+    "src/componets/icons/*.vue"
   ],
   "description": "All breezzy SaaS UI related vue 3 packages",
   "scripts": {
