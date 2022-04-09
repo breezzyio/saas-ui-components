@@ -1,0 +1,1 @@
+const t={key:"v-3b610ddc",path:"/components/input-textarea.html",title:"input-textarea",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649000753e3,contributors:[{name:"Claudiu Plesa",email:"claudiu.plesa@magicpixel.ro",commits:1}]},filePathRelative:"components/input-textarea.md"};export{t as data};
