@@ -5,8 +5,7 @@
   "module": "dist/library.mjs",
   "files": [
     "dist/*",
-    "src/componets/*.vue",
-    "src/componets/icons/*.vue"
+    "src/**/*.vue"
   ],
   "description": "All breezzy SaaS UI related vue 3 packages",
   "scripts": {
