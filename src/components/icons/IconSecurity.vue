@@ -14,6 +14,6 @@
 
 <script>
      export default {
-          name: 'IconSecurity'
+          name: 'icon-security'
      }
 </script>

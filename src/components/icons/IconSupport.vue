@@ -16,6 +16,6 @@
 
 <script>
      export default {
-          name: 'IconSupport'
+          name: 'icon-support'
      }
 </script>

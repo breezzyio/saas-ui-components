@@ -27,6 +27,6 @@
 
 <script>
      export default {
-          name: 'IconNauticalSchool'
+          name: 'icon-nautic-school'
      }
 </script>

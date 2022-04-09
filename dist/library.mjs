@@ -1,7 +1,7 @@
 import { openBlock, createElementBlock, createStaticVNode, createElementVNode, createBlock, resolveDynamicComponent } from 'vue';
 
 var script$5 = {
-     name: 'InputText'
+     name: 'input-text'
 };
 
 const _hoisted_1$3 = { type: "text" };
@@ -14,7 +14,7 @@ script$5.render = render$5;
 script$5.__file = "src/components/InputText.vue";
 
 var script$4 = {
-  name: 'InputTextarea'
+  name: 'input-textarea'
 };
 
 function render$4(_ctx, _cache, $props, $setup, $data, $options) {
@@ -25,7 +25,7 @@ script$4.render = render$4;
 script$4.__file = "src/components/InputTextarea.vue";
 
 var script$3 = {
-          name: 'IconTenants'
+          name: 'icon-tenants'
      };
 
 const _hoisted_1$2 = {
@@ -46,7 +46,7 @@ script$3.render = render$3;
 script$3.__file = "src/components/icons/IconTenants.vue";
 
 var script$2 = {
-          name: 'IconReviews'
+          name: 'icon-reviews'
      };
 
 const _hoisted_1$1 = {
@@ -74,7 +74,7 @@ script$2.render = render$2;
 script$2.__file = "src/components/icons/IconReviews.vue";
 
 var script$1 = {
-          name: 'IconCompany'
+          name: 'icon-company'
      };
 
 const _hoisted_1 = {
@@ -95,7 +95,7 @@ script$1.render = render$1;
 script$1.__file = "src/components/icons/IconCompany.vue";
 
 var script = {
-     name: 'MainIcon',
+     name: 'main-icon',
      props:['component'],
      components: {
           IconTenants: script$3,

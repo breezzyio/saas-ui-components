@@ -9,7 +9,7 @@ import IconCompany from './icons/IconCompany.vue'
 
 
 export default {
-     name: 'MainIcon',
+     name: 'main-icon',
      props:['component'],
      components: {
           IconTenants,

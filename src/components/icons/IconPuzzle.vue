@@ -11,6 +11,6 @@
 
 <script>
      export default {
-          name: 'IconPuzzle'
+          name: 'icon-puzzel'
      }
 </script>

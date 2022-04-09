@@ -18,6 +18,6 @@
 
 <script>
      export default {
-          name: 'IconDashboard'
+          name: 'icon-dashboard'
      }
 </script>

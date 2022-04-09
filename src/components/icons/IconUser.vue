@@ -13,6 +13,6 @@
 
 <script>
      export default {
-          name: 'IconUser'
+          name: 'icon-user'
      }
 </script>

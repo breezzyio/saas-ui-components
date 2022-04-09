@@ -3,6 +3,6 @@
 </template>
 <script>
 export default {
-  name: 'InputTextarea'
+  name: 'input-textarea'
 }
 </script>

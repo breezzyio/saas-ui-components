@@ -20,6 +20,6 @@
 
 <script>
      export default {
-          name: 'IconCompany'
+          name: 'icon-company'
      }
 </script>

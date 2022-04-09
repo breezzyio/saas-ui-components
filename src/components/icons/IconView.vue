@@ -14,6 +14,6 @@
 
 <script>
      export default {
-          name: 'IconView'
+          name: 'icon-vue'
      }
 </script>
